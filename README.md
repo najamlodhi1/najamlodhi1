@@ -1,6 +1,6 @@
 # Muhammad Najam Khan — Mobile, IoT & AI Product Engineer
 
-I build things that ship. Based in London, working across Flutter mobile apps, ESP32 firmware, MQTT-based IoT systems, LLM-powered agents, and full-stack web products.
+I build things that ship. Based in London, working across  Web/Mobile apps, ESP32 firmware, MQTT-based IoT systems, LLM-powered agents, and full-stack web products.
 
 At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer across the full stack — designing and delivering a connected aquarium ecosystem from device firmware (C++/Arduino) through edge gateway (Raspberry Pi/Linux) to Flutter mobile apps and cloud backends. Two of my apps are live on the App Store and Google Play.
 
@@ -11,7 +11,7 @@ I also build my own products. [Provaly](https://provaly-main.vercel.app/) is an 
 ## What I work with
 
 **Mobile**
-Flutter · Dart · Android (Kotlin/Java) · iOS/Android releases · BLE provisioning · deep linking · push notifications
+Flutter/React-Native · Dart · Android (Kotlin/Java) · iOS/Android releases · BLE provisioning · deep linking · push notifications
 
 **IoT & Embedded**
 ESP32 · C++/Arduino · MQTT · TCP/UDP · Raspberry Pi/Linux · edge-to-cloud pipelines · real-time telemetry
@@ -42,9 +42,9 @@ Git · Postman · GitHub Actions · Docker · CI/CD · Agile/Scrum
 **[Live demo](https://provaly-main.vercel.app/) · [github.com/najamlodhi1/provaly](https://github.com/najamlodhi1/provaly)**
 AI agent that monitors business reviews, drafts on-brand replies with Claude, generates sentiment/trust-score insights as structured output, and composes review-request campaigns. Next.js · TypeScript · Claude API.
 
-### Favia — Flutter (iOS & Android)
+### Favia — Cross-Platform (React-Native) (iOS & Android)
 **[App Store](https://apps.apple.com/gb/app/favia/id6471412725) · [Google Play](https://play.google.com/store/apps/details?id=com.tropicalmarinecentre.favia)**
-Production mobile app for marine aquarium management. Device monitoring, real-time telemetry, product integration. Flutter · Firebase · MQTT · REST.
+Production mobile app for marine aquarium management. Device monitoring, real-time telemetry, product integration. React-Native · AzureSQL · MQTT · REST.
 
 ### Fetes — Flutter (iOS & Android)
 **[App Store](https://apps.apple.com/by/app/fetes/id1661214922) · [Google Play](https://play.google.com/store/apps/details?id=tv.fetes.mainApp)**
