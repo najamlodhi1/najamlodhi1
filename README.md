@@ -2,7 +2,7 @@
 
 I build things that ship. Based in London, working across  Web/Mobile apps, ESP32 firmware, MQTT-based IoT systems, LLM-powered agents, and full-stack web products.
 
-At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer across the full stack — designing and delivering a connected aquarium ecosystem from device firmware (C++/Arduino) through edge gateway (Raspberry Pi/Linux) to Flutter mobile apps and cloud backends. Two of my apps are live on the App Store and Google Play.
+At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer across the full stack — designing and delivering a connected aquarium ecosystem from device firmware (C++/Arduino) through edge gateway (Raspberry Pi/Linux) to Flutter/React-Native mobile apps and cloud backends. Two of my apps are live on the App Store and Google Play.
 
 I also build my own products. [Provaly](https://provaly-main.vercel.app/) is an AI reputation-management agent I designed, built, and deployed — it monitors business reviews, drafts on-brand replies with Claude, and surfaces reputation insights. Currently in active development.
 
